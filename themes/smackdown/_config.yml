@@ -36,10 +36,10 @@ open_in_new: false
 # baidu_tongji: true
 # google_analytics: true
 
-favicon: https://cravatar.cn/avatar/6295D2FC44B39B261AFE8BF368FFCF72
+favicon: https://avatars.slirv.vip/alice
 
 #你的头像url
-avatar:  https://cravatar.cn/avatar/6295D2FC44B39B261AFE8BF368FFCF72
+avatar:  https://avatars.slirv.vip/alice
 
 #是否开启分享
 share: true
